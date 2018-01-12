@@ -3,9 +3,45 @@ body {
 	padding:0;
 	background-color: #BD5E00
 }
+.logheader{
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	color: blue;
+	text-align: center
+}
+.logpara{
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
+.logimg{
+	display:block;
+	margin:0 auto;
+	
+}
+.loglink{
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+	margin:0 auto;
+	display: block;
+}
+#log{
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
 #thumbs{
 	width:7%;
 	display: inline-block;
+}
+#demovid{
+	margin:0 auto;
+	display:block;
+	width:50em;
+	height:30em;
 }
 #thumbs ul li {
 	list-style-type: none;
